@@ -1,24 +1,6 @@
-# README
+# Digital Assignment 2+3
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Employee Review System with Ruby on Rails
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This was due on April 28th, 2020. Pull yourself together. SMH.
