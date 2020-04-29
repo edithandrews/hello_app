@@ -3,4 +3,5 @@
 ## Employee Review System with Ruby on Rails
 
 
-This was due on April 28th, 2020. Pull yourself together. SMH.
+Junaid Nooh - 17MIS1191
+Edith Susanna Andrews - 17MIS1048
